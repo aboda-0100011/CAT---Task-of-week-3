@@ -1,0 +1,14 @@
+C:\Users\mahmo\source\repos\Solving equations\obj\Debug\net8.0\Solving equations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmo\source\repos\Solving equations\obj\Debug\net8.0\Solving equations.AssemblyInfoInputs.cache
+C:\Users\mahmo\source\repos\Solving equations\obj\Debug\net8.0\Solving equations.AssemblyInfo.cs
+C:\Users\mahmo\source\repos\Solving equations\obj\Debug\net8.0\Solving equations.csproj.CoreCompileInputs.cache
+C:\Users\mahmo\source\repos\Solving equations\bin\Debug\net8.0\Solving equations.exe
+C:\Users\mahmo\source\repos\Solving equations\bin\Debug\net8.0\Solving equations.deps.json
+C:\Users\mahmo\source\repos\Solving equations\bin\Debug\net8.0\Solving equations.runtimeconfig.json
+C:\Users\mahmo\source\repos\Solving equations\bin\Debug\net8.0\Solving equations.dll
+C:\Users\mahmo\source\repos\Solving equations\bin\Debug\net8.0\Solving equations.pdb
+C:\Users\mahmo\source\repos\Solving equations\obj\Debug\net8.0\Solving equations.dll
+C:\Users\mahmo\source\repos\Solving equations\obj\Debug\net8.0\refint\Solving equations.dll
+C:\Users\mahmo\source\repos\Solving equations\obj\Debug\net8.0\Solving equations.pdb
+C:\Users\mahmo\source\repos\Solving equations\obj\Debug\net8.0\Solving equations.genruntimeconfig.cache
+C:\Users\mahmo\source\repos\Solving equations\obj\Debug\net8.0\ref\Solving equations.dll
